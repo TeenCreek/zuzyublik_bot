@@ -17,7 +17,7 @@
 1. Склонируйте репозиторий:
 
 ```
-git clone https://github.com/yourusername/zuzyublik_bot.git
+git clone git@github.com:TeenCreek/zuzyublik_bot.git
 ```
 
 2. Создайте файл **.env** в корневой директории и добавьте в него ваш Telegram Bot Token:
